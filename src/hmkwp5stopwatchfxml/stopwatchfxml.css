@@ -1,0 +1,38 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+
+
+.mainFxmlClass {
+    
+    
+
+}
+/*
+@font-face {
+    font-family: myFirstFont;
+    src: url(computerfont.ttf);
+}
+/*
+* genuinely hurt that I cannot get this font to work
+* It would look SUPER cool if it did 
+* (its the font plankton's wife Caren the Computer uses in SpongeBob)
+* I just want to use the font in the project directory,
+* rather than from my local fonts in fontbook.
+* I dont think fxml uses css3 which is needed for the @font-face to work
+*/
+
+.clockLabel  {
+    
+    -fx-font-family: Computerfont;
+    -fx-font-size: 73;
+    -fx-text-fill: orange;
+    
+}
+
+.buttonText  {
+    -fx-font-family: Computerfont;
+    -fx-font-size: 14;
+    -fx-background-color: green;
+}
