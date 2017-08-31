@@ -1,3 +1,3 @@
 # AsteroidsGame
-Object Oriented Final Project
-This was a mistake, view repo AsteroidsGameV2
+-Object Oriented Final Project
+-This was a mistake, view repo AsteroidsGameV2
